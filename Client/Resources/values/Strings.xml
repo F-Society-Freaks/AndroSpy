@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="stop_timestamp_service_button_text">DURDUR</string>
+	<string name="restart_timestamp_service_button_text">BASLAT</string>
+	<string name="app_name">APPNAME</string>
+	<string name="service_started">SERVIS</string>
+	<string name="notification_text">CALISIYOR</string>
+	<string name="IP">192.168.1.3</string>
+	<string name="PORT">9999</string>
+<string name="KURBANISMI">[KURBAN]</string>
+</resources>
